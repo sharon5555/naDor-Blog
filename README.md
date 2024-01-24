@@ -1,5 +1,6 @@
 
-Welcome to naDor Blog! This README provides a quick overview of the blog.
+Welcome to naDor Blog! 
+This README provides a quick overview of the blog.
 
 Overview
 naDor Blog is a lightweight and customizable blogging platform designed for simplicity and ease of use. It offers a clean and intuitive interface for bloggers to focus on content creation.
