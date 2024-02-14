@@ -7,10 +7,35 @@
             "id": 1
         },
         {
-            "title": "Opening Party",
+            "title": "My Ministry",
             "body": "Things Of God",
             "author": "naDor",
             "id": 2
+        },
+        {
+            "title": "The Fear Of God",
+            "body": "Things Of God",
+            "author": "naDor",
+            "id": 3
+        },
+        {
+            "title": "Purity Of Heart",
+            "body": "Things Of God",
+            "author": "naDor",
+            "id": 4
+        },
+        {
+            "title": "Supremacy",
+            "body": "Things Of God",
+            "author": "naDor",
+            "id": 5
+        },
+        {
+            "title": "Gift Of The Spirit",
+            "body": "Things Of God",
+            "author": "naDor",
+            "id": 6
         }
+
     ]
 }

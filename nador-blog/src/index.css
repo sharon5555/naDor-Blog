@@ -1,16 +1,16 @@
 @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import 'bootstrap/dist/css/bootstrap.min.css';
 
 /* base styles */
 *{
   margin: 0;
   font-family: "Quicksand";
-  color: #333;
 }
 .navbar {
   padding: 20px;
   display: flex;
   align-items: center;
-  max-width: 800px;
+  max-width: 100%;
   margin: 0 auto;
   border-bottom: 5px solid #f2f2f2;
 }
@@ -19,6 +19,7 @@
 }
 .navbar .links {
   margin-left: auto;
+  color: #333;
 }
 .navbar a {
   margin-left: 16px;
@@ -32,4 +33,28 @@
   max-width: 800px;
   margin: 40px auto;
   padding: 20px;
+}
+.heading {
+  padding: 20px;
+  max-width: 800px;
+  margin: 0;
+  margin-bottom: 20px;
+  border-bottom: 5px solid #f2f2f2;
+  font-size: 30px;
+  text-shadow: 3px 3px rgba(50,50,70,0.5);
+}
+.blog-preview{
+  padding: 20px;
+  max-width: 800px;
+  margin: 0;
+  margin-bottom: 20px;
+  color: white;
+  background-color: royalblue;
+  border-bottom: 5px solid #f2f2f2;
+  border-radius: 0px 0px 16px 16px;
+}
+.blog-preview:hover {
+  background-color: #333;
+  color: white;
+  cursor: pointer;
 }
