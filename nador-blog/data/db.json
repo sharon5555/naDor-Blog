@@ -1,0 +1,16 @@
+{
+    "blogs": [
+        {
+            "title": "My First Blog",
+            "body": "The Love Of Christ",
+            "author": "naDor",
+            "id": 1
+        },
+        {
+            "title": "Opening Party",
+            "body": "Things Of God",
+            "author": "naDor",
+            "id": 2
+        }
+    ]
+}
