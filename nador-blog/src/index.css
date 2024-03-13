@@ -81,11 +81,11 @@
 .blog-details div {
   margin: 20px 0;
 }
-.blog-detail button {
+.blog-details button {
   background: #e61c92;
   color: #fff;
   border: 0;
-  padding: 8px;
+  padding: 10px;
   border-radius: 8px;
   cursor: pointer;
 }
