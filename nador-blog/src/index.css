@@ -45,17 +45,16 @@
 }
 .blog-preview{
   padding: 10px;
-  max-width: 300px;
+  max-width: 400px;
   margin: 0;
   margin-bottom: 20px;
   color: black;
-  background-color: whitesmoke;
-  border-bottom: 5px solid #f2f2f2;
-  border-radius: 0px 0px 16px 16px;
-  box-shadow: #333 0 2px 3px;
+  background-color: white;
 }
 .blog-preview:hover {
-  background-color: #333;
-  color: white;
+  background-color: whitesmoke;
+  color: red;
+  box-shadow: #333 0 2px 2px;
+  border-bottom: 5px solid #f2f2f2;
   cursor: pointer;
 }
