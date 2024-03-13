@@ -29,11 +29,13 @@
 .navbar a:hover {
   color: #e61c92;;
 }
+
 .content {
   max-width: 800px;
   margin: 40px auto;
   padding: 20px;
 }
+
 .heading {
   padding: 20px;
   max-width: 800px;
@@ -43,6 +45,7 @@
   font-size: 30px;
   text-shadow: 2px 2px rgba(50,50,70,0.4);
 }
+
 .blog-preview{
   padding: 5px;
   max-width: 400px;
@@ -58,13 +61,11 @@
   border-bottom: 5px solid #f2f2f2;
   cursor: pointer;
 }
-
 .blog-preview h2 {
   font-size: 20px;
   color: #e61c92;
   margin-bottom: 8px;
 }
-
 .blog-preview a {
   text-decoration: none;
 }
@@ -85,6 +86,38 @@
   color: #fff;
   border: 0;
   padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create label {
+  text-alighn: left;
+  display: block;
+}
+.create h2 {
+  font-size: 20px;
+  color: #e61c92;
+  margin-bottom: 30px;
+}
+.create input, .create textarea, .create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  box-sizing: border-box;
+  display: block;
+  border-radius: 8px;
+}
+.create button {
+  background: #e61c92;
+  color: #fff;
+  border: 0;
+  padding: 10px;
   border-radius: 8px;
   cursor: pointer;
 }
